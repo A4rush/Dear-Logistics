@@ -56,22 +56,23 @@
 ## 📂 Project Structure
 
 DEAR LOGISTICS/
-├── assets/
-│ ├── css/
-│ │ ├── blog-card.css
-│ │ └── style.css
-│ ├── images/
-│ └── js/
-│ └── script.js
-├── node_modules/
-├── readme-images/
-│ ├── desktop.png
-│ └── favicon.svg
-├── index.html
-├── index.txt
-├── package-lock.json
-├── package.json
-└── style-guide.md
+
+- assets/
+  - css/
+    - blog-card.css
+    - style.css
+  - images/
+  - js/
+    - script.js
+- node_modules/
+- readme-images/
+  - desktop.png
+  - favicon.svg
+- index.html
+- index.txt
+- package-lock.json
+- package.json
+- style-guide.md
 
 ## 📦 Getting Started
 
