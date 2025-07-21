@@ -55,7 +55,7 @@
 
 ## 📂 Project Structure
 
-DEAR LOGISTICS
+DEAR LOGISTICS/
 ├── assets/
 │ ├── css/
 │ │ ├── blog-card.css
