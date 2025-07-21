@@ -91,23 +91,11 @@ npm run dev
 
 4.**Your backend server should now be running (usually on http://localhost:3000)**
 
-✅ To-Do / Future Enhancements
-
-Implement frontend dashboard (React/Next.js)
-
-Add real-time tracking with WebSocket or Firebase
-
-Integrate third-party APIs for route optimization
-
-Enhance security with OAuth2 or similar
-
-Dockerize the app for easy deployment
-
-📄 License
+## 📝 License
 
 (This project is licensed under the MIT License — feel free to fork and build on it.)
 
-💬 Contact
+## 📧 Contact
 
 Questions, suggestions, or collabs? Hit me up!
 
